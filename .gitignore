@@ -1,0 +1,15 @@
+*
+!.gitignore
+!Dockerfile
+!substrate/
+!substrate/**
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+.coverage
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
